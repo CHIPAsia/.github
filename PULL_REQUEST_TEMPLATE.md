@@ -12,6 +12,7 @@
 
 ## PR Checklist:
 
--   [ ] Unit test provided and passed?
+-   [ ] Unit test provided?
+-   [ ] All unit tests passed?
 -   [ ] Deployed and tested in staging?
 -   [ ] Project Management Solution (Asana / Jira / Trello) task link provided?
