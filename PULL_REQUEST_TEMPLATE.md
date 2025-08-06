@@ -10,9 +10,13 @@
 ## Images
 <!-- Usually only applicable to UI changes, what did it look like before and what will it look like after? -->
 
+## Back-End or Front-End dependency tasks/PRs?
+<!-- Links to Project Management Solution task link and PR -->
+
 ## PR Checklist:
 
 -   [ ] Unit test provided?
 -   [ ] All unit tests passed?
 -   [ ] Deployed and tested in staging?
 -   [ ] Project Management Solution (Asana / Jira / Trello) task link provided?
+-   [ ] Is this dependent on the Back-End / Front-End?
